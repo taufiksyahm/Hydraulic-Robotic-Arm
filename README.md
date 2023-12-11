@@ -1,4 +1,4 @@
 # Hydraulic-Robotic-Arm
-Make a hydraulic system excavator design tool using Blender
+Design a tool for a hydraulic system excavator using Blender.
 
-Hydraulic Robotic Arm is an excavator teaching aid using the principle of a hydraulic system derived from Pascal's Law.
+The Hydraulic Robotic Arm is an educational tool for excavator demonstrations, utilizing the principles of a hydraulic system based on Pascal's Law.
